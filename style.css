@@ -1,0 +1,108 @@
+body{
+    font-family: 'Lobster', cursive;}
+h1{
+    font-size: 50px;
+}
+li {
+    display: inline;
+    padding: 20px;
+  }
+  ul{
+      text-align: right;
+  }
+  span{
+      color: salmon;
+  }
+
+.highlight{
+
+    color: rgb(18, 18, 90);
+}
+#text{
+    margin-top: 150px;
+    }
+
+.highlight1{
+    color: rgb(209, 127, 19);
+    font-size: 25px;
+}
+.half{
+    width: 40%;;
+    margin-left: 5%;
+    float: left;
+    padding: 2%;
+    text-align: justify;
+    margin-top: 5%;
+}
+.one-third{
+    width: 30%;;
+    margin-left: 1%;
+    float: left;
+    padding: 1%;
+    text-align: left;
+    margin-top: 2%;
+    box-shadow: grey 5px 5px 5px;
+    border-radius: 10px;
+
+}
+.one-third img{
+    width: 100%;
+}
+.half img{
+    width: 80%;
+}
+.link{
+    padding: 15px 50px;
+    margin-top: 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,rgb(0, 217, 255),black);
+    text-decoration: none;
+    color: white;
+}
+.edit{
+    height: 800px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+.head{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.chat{
+    background-image: url("images/Group_33094_1.png");
+    height: 200px;
+   background-position: center;
+   border-radius: 20px;
+   margin: 5% 20%;
+   background-size: cover;
+    
+
+}
+
+#right_link{
+    text-align: left;
+    font-size: 25px;
+}
+#left_link{
+    text-align: right;
+    font-size: 25px;
+    padding-top: 45px;
+}
+.bottom{
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(168, 161, 161);
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.icon{
+    float: left;
+}
+.icon img{
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+}
